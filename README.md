@@ -1,9 +1,8 @@
 Hey there👋! I'm Dinesh Khemani<br>
 
 About me:<br>
-💻 2nd year CS undergrad.<br>
+💻 I am currently in 7th sem.<br>
 🌱 I’m currently learning MERN stack.<br>
-🤠 I'm in Love with Flutter<br>
 
 Connect with me:
 
